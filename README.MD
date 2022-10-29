@@ -1,8 +1,4 @@
-✌ Sou diego Rampazio e estou me desenvolvendo com foco em front end, prático diariamente técnologias JavaScript, java, HTML5,CSS3, React, bootstrap e dentre outras. 
 
--  Tem pouco mais de 1 ano que estudo programação, no momento estou desenvolendo página para fretes de caminhão, objetivo  é um sistema para calcular rotas para os fretes, contato via watsapp e páginas de informação. Estou no momento de focar e realziar projetos reais proprios, caminhar com as proprias pernas e colocar a mão na massa.
-
-- Meus estudos foram constituido em aprendizado teorico na faculdade, proejtos prontos de bootscamps, cursos na alura e youtbe. Atualmente estou indo para a parte prática e entrar definiticamente no mercado.  
 
 
 <div align="center">
